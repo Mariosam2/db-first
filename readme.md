@@ -17,3 +17,4 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 * km | INT | NOTNULL
 * engine_specs (cc, gear, power) | TEXT | NULL
 * fuel_supply | VARCHAR(10) | NULL
+* color | VARCHAR(30) | NULL
